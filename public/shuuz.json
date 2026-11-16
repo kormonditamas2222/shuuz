@@ -1,0 +1,34 @@
+{
+    "shuuz": [
+        {
+            "shuu": "Air Jordan",
+            "meret": 44,
+            "limited": false,
+            "megjelenes": "1999-03-14"
+        },
+        {
+            "shuu": "Thomas Jefferson 76's",
+            "meret": 41,
+            "limited": true,
+            "megjelenes": "1776-07-04"
+        },
+        {
+            "shuu": "Petrik Slippers",
+            "meret": 40,
+            "limited": true,
+            "megjelenes": "2027-02-28"
+        },
+        {
+            "shuu": "Trump Shoes",
+            "meret": 45,
+            "limited": false,
+            "megjelenes": "2025-04-25"
+        },
+        {
+            "shuu": "Nike Air Max",
+            "meret": 42,
+            "limited": false,
+            "megjelenes": "2003-12-01"
+        }
+    ]
+}
