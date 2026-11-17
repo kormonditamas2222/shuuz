@@ -1,34 +1,47 @@
 {
-    "shuuz": [
-        {
-            "shuu": "Air Jordan",
-            "meret": 44,
-            "limited": false,
-            "megjelenes": "1999-03-14"
-        },
-        {
-            "shuu": "Thomas Jefferson 76's",
-            "meret": 41,
-            "limited": true,
-            "megjelenes": "1776-07-04"
-        },
-        {
-            "shuu": "Petrik Slippers",
-            "meret": 40,
-            "limited": true,
-            "megjelenes": "2027-02-28"
-        },
-        {
-            "shuu": "Trump Shoes",
-            "meret": 45,
-            "limited": false,
-            "megjelenes": "2025-04-25"
-        },
-        {
-            "shuu": "Nike Air Max",
-            "meret": 42,
-            "limited": false,
-            "megjelenes": "2003-12-01"
-        }
-    ]
+  "shuuz": [
+    {
+      "shuu": "Air Jordan",
+      "meret": 44,
+      "limited": false,
+      "megjelenes": "1999-03-14",
+      "id": "mK3_c7dbse0"
+    },
+    {
+      "shuu": "Thomas Jefferson 76's",
+      "meret": 41,
+      "limited": true,
+      "megjelenes": "1776-07-04",
+      "id": "hQW8MQyMPjA"
+    },
+    {
+      "shuu": "Petrik Slippers",
+      "meret": 40,
+      "limited": true,
+      "megjelenes": "2027-02-28",
+      "id": "gJIBfWezS9Y"
+    },
+    {
+      "shuu": "Trump Shoes",
+      "meret": 45,
+      "limited": false,
+      "megjelenes": "2025-04-25",
+      "id": "2izgnIm-2fI"
+    },
+    {
+      "shuu": "Nike Air Max",
+      "meret": 42,
+      "limited": false,
+      "megjelenes": "2003-12-01",
+      "id": "Jjyd96x7HPc"
+    },
+    {
+      "nev": "idk",
+      "meret": 40,
+      "limited": true,
+      "megjelenes": "2026-11-17",
+      "id": "i_XBvScclms"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
